@@ -34,6 +34,7 @@ class Solution(object):
         n=len(nums)
         x=2*n
         ans=[0]*x
+        print("hello")
 
         for i in range(n):
             ans[i]=nums[i]
